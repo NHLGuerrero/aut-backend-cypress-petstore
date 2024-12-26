@@ -173,18 +173,10 @@ module.exports = defineConfig({
 
 ## Ejemplos Visuales
 ### Reporte Generado con Mochawesome
-![Reporte Mochawesome](https://example.com/reporte-mochawesome.png)
+![Reporte Mochawesome](media/reportes.gif)
 
 ### Ejecución de Pruebas Interactivas
-![Ejecución Interactiva](https://example.com/ejecucion-interactiva.gif)
+![Ejecución Interactiva](media/ejecucion.mp4)
 
 ## Contribución
-1. Crear un fork del repositorio.
-2. Crear una rama para tus cambios:
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   ```
-3. Realizar tus cambios y enviar un Pull Request.
-
-## Licencia
-Este proyecto está bajo la Licencia ISC.
+Este es un proyecto personal, por lo que no se aceptan contribuciones externas. Sin embargo, si deseas utilizar este repositorio como base para tus propios proyectos, siéntete libre de hacer un fork.
