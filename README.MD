@@ -29,7 +29,8 @@ El objetivo es mejorar la calidad del código mediante pruebas automáticas y re
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone <URL-DEL-REPOSITORIO>
+   git clone https://github.com/NHLGuerrero/aut-backend-cypress-petstore.git
+   
    cd <NOMBRE-DEL-PROYECTO>
    ```
 
