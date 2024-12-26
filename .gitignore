@@ -1,0 +1,25 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de configuración y resultados de Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/reports/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema operativo
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Archivos de log, respaldo y temporales
+*.log
+*.bak
+*.swp
+
+# Archivos de construcción y cobertura
+/dist/
+/build/
+/coverage/

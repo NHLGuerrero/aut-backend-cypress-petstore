@@ -1,0 +1,30 @@
+{
+  "name": "aut-backend-api-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:chrome": "cypress open --e2e --browser chrome",
+    "cypress:firefox": "cypress open --e2e --browser firefox",
+    "cypress:edge": "cypress open --e2e --browser edge",
+    "cypress:electron": "cypress open --e2e --browser electron",
+    "cypress:chrome:headless": "cypress run --browser chrome --headless",
+    "cypress:firefox:headless": "cypress run --browser firefox --headless",
+    "cypress:edge:headless": "cypress run --browser edge --headless",
+    "cypress:html:report": "cypress run --e2e mochawesome-reporter.cy.js --browser chrome --headed"
+  },
+  "keywords": ["cypress", "api", "testing", "backend", "automation"],
+  "author": "Nahuel Guerrero",
+  "license": "ISC",
+  "description": "Un proyecto para automatizar pruebas de backend en APIs utilizando Cypress, con ejemplos y configuraciones para diferentes casos de uso.",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "cypress-grep": "^3.0.4"
+  }
+}
