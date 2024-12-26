@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Cypress Backend Testing Accelerator</h1>
+  <h1>API Test Automation Backend - Cypress</h1>
   <img src="media/cypress-logo.png" width="350" alt="Cypress Logo" />
 </div>
 
