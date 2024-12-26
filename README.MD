@@ -1,4 +1,7 @@
-# Cypress Backend Testing Accelerator
+<div align="center">
+  <h1>Cypress Backend Testing Accelerator</h1>
+  <img src="media/cypress-logo.png" width="350" alt="Cypress Logo" />
+</div>
 
 ## Índice
 1. [Descripción](#descripción)
