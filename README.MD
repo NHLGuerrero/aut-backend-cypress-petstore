@@ -176,7 +176,7 @@ module.exports = defineConfig({
 ![Reporte Mochawesome](media/reportes.gif)
 
 ### Ejecución de Pruebas Interactivas
-![Ejecución Interactiva](media/ejecucion.mp4)
+![Ejecución Interactiva](media/ejecucion.gif)
 
 ## Contribución
 Este es un proyecto personal, por lo que no se aceptan contribuciones externas. Sin embargo, si deseas utilizar este repositorio como base para tus propios proyectos, siéntete libre de hacer un fork.
